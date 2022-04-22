@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="switch_preference_1"
+        android:title="@string/darkmode" />
+    <EditTextPreference
+        app:key="signature"
+        app:title="@string/language"
+        app:useSimpleSummaryProvider="true" />
+
+</PreferenceScreen>

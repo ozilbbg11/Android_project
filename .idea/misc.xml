@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/activity_main.xml" value="0.48672566371681414" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/activity_scrolling.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/content_scrolling.xml" value="0.6864583333333333" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/fragment_scrolling.xml" value="0.45153985507246375" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/fragment_search.xml" value="0.34322916666666664" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/fragment_setting.xml" value="0.6864583333333333" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/school_detail.xml" value="0.6864583333333333" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/layout/search.xml" value="0.15374873353596757" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/menu/menu_scrolling.xml" value="0.6864583333333333" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.538" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.538" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/xml/root_preferences.xml" value="0.3798767967145791" />
+        <entry key="..\:/AndroidStudioProjects/AppProject/app/src/main/res/xml/setting.xml" value="0.6864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
